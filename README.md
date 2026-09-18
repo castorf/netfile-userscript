@@ -28,7 +28,7 @@ Install the free Tampermonkey extension for your browser:
 - [Tampermonkey for Brave / Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 ### Step 2: Add the Assistant Script
-1. Open [`dist/netfile-userscript.user.js`](dist/netfile-userscript.user.js) on your computer (or copy its full text), or  [install via Tampermonkey](https://raw.githubusercontent.com/<your-username>/netfile-actblue-assistant/main/dist/netfile-userscript.user.js)
+1. Open [`dist/netfile-userscript.user.js`](dist/netfile-userscript.user.js) on your computer (or copy its full text), or  [install via Tampermonkey](https://raw.githubusercontent.com/castorf/netfile-actblue-assistant/main/dist/netfile-userscript.user.js)
 2. Click the **Tampermonkey icon** in your browser toolbar $\rightarrow$ click **Dashboard**.
 3. Go to the **Utilities** tab, find **Install from file**, and select `dist/netfile-userscript.user.js` *(or click the `+` tab and paste the text, then click File $\rightarrow$ Save)*.
 4. Click **Install**.
