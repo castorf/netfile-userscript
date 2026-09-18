@@ -37,7 +37,7 @@ Install the free Tampermonkey extension for your browser:
 Log into your NetFile filer account:
 `https://netfile.com/Filer/LegacyFree/`
 
-The dark-mode **ActBlue Assistant** panel will appear in the top-right corner of your screen!
+The dark-mode **ActBlue Assistant** panel will appear in the bottom-right corner of your screen (and can be dragged anywhere)!
 
 ---
 
