@@ -30,7 +30,7 @@ Install the free Tampermonkey extension for your browser:
 ### Step 2: Add the Assistant Script
 1. Open [`dist/netfile-userscript.user.js`](dist/netfile-userscript.user.js) on your computer (or copy its full text), or  [install via Tampermonkey](https://raw.githubusercontent.com/castorf/netfile-userscript/main/dist/netfile-userscript.user.js)
 2. Click the **Tampermonkey icon** in your browser toolbar $\rightarrow$ click **Dashboard**.
-3. Go to the **Utilities** tab, find **Install from file**, and select `dist/netfile-userscript.user.js` *(or click the `+` tab and paste the text, then click File $\rightarrow$ Save)*.
+3. Go to the **Utilities** tab, find **Install from file**, and select `dist/netfile-userscript.user.js` (or click the `+` tab and paste the text, then click File $\rightarrow$ Save).
 4. Click **Install**.
 
 ### Step 3: Open NetFile & Start!
