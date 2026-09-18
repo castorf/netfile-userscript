@@ -4,16 +4,27 @@
 
 ---
 
-## What is This?
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-When filing campaign disclosure reports (California FPPC Form 460), campaign treasurers must manually transfer hundreds of online donations from ActBlue into NetFile. NetFile requires jumping between several screens for every single donor: searching for existing records, creating new individuals, entering contribution amounts, and recording merchant processing fees.
+### What is This?
 
-**NetFile ActBlue Assistant** is a small browser add-on that floats in the corner of your NetFile screen. It reads your downloaded ActBlue spreadsheet and adds convenient **1-click fill buttons** to NetFile's forms as you navigate through each step.
+When filing campaign disclosure reports (California FPPC Form 460), campaign treasurers must manually transfer hundreds of online donations from ActBlue into NetFile. NetFile requires jumping between several screens for every single donor: searching for records, creating new individuals, entering contribution amounts, and recording processing fees.
 
-- ⚡ **No more copy-pasting**: Pre-fills donor names, addresses, employers, occupations, dates, and contribution amounts with one click.
-- 💳 **Handles fees automatically**: Calculates Stripe and ActBlue merchant processing fees, groups them by payout batch to match your bank deposits, and classifies them correctly under FPPC code **`WEB`**.
-- 🔒 **100% Private & Secure**: Runs entirely inside your browser. Your donor spreadsheet is never sent to any server, cloud service, or third party.
-- 📌 **Stays out of your way**: Draggable, minimizable, and remembers which entries you've already completed.
+**NetFile ActBlue Assistant** is a browser companion that floats over your NetFile screen. It reads your downloaded ActBlue spreadsheet and adds convenient **1-click fill buttons** to NetFile's forms as you navigate through each step.
+
+- ⚡ **No more copy-pasting**: Pre-fills donor names, addresses, employers, occupations, dates, and amounts with one click.
+- 💳 **Handles fees automatically**: Calculates Stripe & ActBlue fees, groups them into bank payout batches, and classifies them under FPPC code **`WEB`**.
+- 🔒 **100% Private & Secure**: Runs entirely inside your browser. No donor data ever leaves your computer.
+- 📌 **Stays out of your way**: Draggable, minimizable, and tracks completed entries across sessions.
+
+</td>
+    <td width="45%" valign="top" align="center">
+      <img src="demo.gif" alt="NetFile ActBlue Assistant Demo" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
